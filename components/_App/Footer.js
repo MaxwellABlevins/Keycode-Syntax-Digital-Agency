@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import * as Icon from "react-feather";
-
+ 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
 
